@@ -1,0 +1,11 @@
+﻿  functions.cpp
+D:\vs codes\CRC\functions.cpp(24,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\CRC\functions.cpp(40,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\CRC\functions.cpp(52,22): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+D:\vs codes\CRC\functions.cpp(54,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\CRC\functions.cpp(65,19): warning C4018:  '<=': signed/unsigned mismatch
+D:\vs codes\CRC\functions.cpp(69,21): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\CRC\functions.cpp(82,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\CRC\functions.cpp(87,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\CRC\functions.cpp(92,20): warning C4018:  '<': signed/unsigned mismatch
+  CRC.vcxproj -> D:\vs codes\CRC\Debug\CRC.exe
