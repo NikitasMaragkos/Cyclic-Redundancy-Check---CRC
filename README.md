@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT "MIT License")
 
-With this code you can test the function of CRC and its robustness. The menu is
+With this code you can test the function of CRC and its robustness. The menu is:
 
 ![Even-Parity cover image](https://github.com/NikitasMaragkos/Cyclic-Redundancy-Check---CRC/blob/main/Image/1.PNG?raw=true)
 
